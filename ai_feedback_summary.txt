@@ -1,0 +1,15 @@
+CULTUREVERSE AI FEEDBACK SUMMARY
+
+User: u01
+ - Communication: 4.2
+ - Trust: 4.0
+ - Values: 3.8
+ - Openness: 4.4
+ - Feedback: Strong trust and openness. Improve core values.
+
+User: u10
+ - Communication: 3.9
+ - Trust: 3.7
+ - Values: 4.1
+ - Openness: 4.2
+ - Feedback: Good communication. Trust needs work.
